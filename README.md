@@ -26,3 +26,17 @@ https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1
 9.missing number
 https://leetcode.com/problems/missing-number/description/
 
+10.single number
+https://leetcode.com/problems/single-number/
+
+11.max cosecutive ones
+https://leetcode.com/problems/max-consecutive-ones/description/
+
+12.subarray equals k
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+13.search insert position
+https://leetcode.com/problems/search-insert-position/description/
+
+14.valid perfect square
+https://leetcode.com/problems/valid-perfect-square/description/
