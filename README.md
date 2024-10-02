@@ -50,5 +50,4 @@ https://leetcode.com/problems/unique-number-of-occurrences/description/
 17.search in rotated sorted array
 https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
-18.search in rotated sorted array 2
-https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+
