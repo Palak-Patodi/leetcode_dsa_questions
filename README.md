@@ -40,3 +40,15 @@ https://leetcode.com/problems/search-insert-position/description/
 
 14.valid perfect square
 https://leetcode.com/problems/valid-perfect-square/description/
+
+15.find the first and last position of element in a sorted array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+
+16.unique no. of occurences
+https://leetcode.com/problems/unique-number-of-occurrences/description/
+
+17.search in rotated sorted array
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+18.search in rotated sorted array 2
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
