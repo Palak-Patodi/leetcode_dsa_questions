@@ -50,4 +50,13 @@ https://leetcode.com/problems/unique-number-of-occurrences/description/
 17.search in rotated sorted array
 https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
+18.rotated sorted array 2nd search
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+
+19.min in a rotated sorted array
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
+20.single element in a sorted array
+https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+
 
