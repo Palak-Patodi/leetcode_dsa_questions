@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int findRotationCount(vector<int>& arr) {
+        int left = 0, right = arr.size() - 1;
+
+        
+        if (arr[left] <= arr[right]) return 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (mid < right && arr[mid] > arr[mid + 1]) {
+                return mid + 1;
+            }
+
+            if (mid > left && arr[mid] < arr[mid - 1]) {
+                return mid;
+            }
+
+            
+            if (arr[mid] >= arr[left]) {
+                left = mid + 1;  
+            } else {
+                right = mid - 1;  
+            }
+        }
+
+        return 0;  
+    }
+};
