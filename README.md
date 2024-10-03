@@ -53,7 +53,7 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 18.search in rotated sorted array 2nd 
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 
-19.min in a rotated sorted array
+19.find min in a rotated sorted array
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
 20.single element in a sorted array
