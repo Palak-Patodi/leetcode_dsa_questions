@@ -59,4 +59,9 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 20.single element in a sorted array
 https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
+21.find kth rotation
+https://www.geeksforgeeks.org/problems/rotation4723/1
+
+22.find peak element
+https://leetcode.com/problems/find-peak-element/description/
 
