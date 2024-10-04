@@ -65,3 +65,11 @@ https://www.geeksforgeeks.org/problems/rotation4723/1
 22.find peak element
 https://leetcode.com/problems/find-peak-element/description/
 
+23.two sum
+https://leetcode.com/problems/two-sum/description/
+
+24.sort colors
+https://leetcode.com/problems/sort-colors/description/
+
+25.majority element
+https://leetcode.com/problems/majority-element/description/
