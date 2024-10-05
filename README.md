@@ -73,3 +73,12 @@ https://leetcode.com/problems/sort-colors/description/
 
 25.majority element
 https://leetcode.com/problems/majority-element/description/
+
+26.maximum subarray
+https://leetcode.com/problems/maximum-subarray/submissions/1412905455/
+
+27.best time to buy and sell stocks
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+28.rearrange array elements by sign
+https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
