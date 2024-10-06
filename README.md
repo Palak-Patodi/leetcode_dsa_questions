@@ -82,3 +82,13 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 28.rearrange array elements by sign
 https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
+
+29.Next permutation
+https://leetcode.com/problems/next-permutation/description/
+
+30.replace elements with the greatest element right side
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
+
+31.Longest Consecutive Sequence in an Array
+https://leetcode.com/problems/longest-consecutive-sequence/editorial/
+
