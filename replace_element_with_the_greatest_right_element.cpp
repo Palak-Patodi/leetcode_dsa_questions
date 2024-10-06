@@ -1,3 +1,5 @@
+//TIME COMPLEXITY:O(N)
+//SPACE COMPLEXITY:O(1)
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
