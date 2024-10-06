@@ -90,5 +90,5 @@ https://leetcode.com/problems/next-permutation/description/
 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 
 31.Longest Consecutive Sequence in an Array
-https://leetcode.com/problems/longest-consecutive-sequence/editorial/
+https://leetcode.com/problems/longest-consecutive-sequence/description/
 
