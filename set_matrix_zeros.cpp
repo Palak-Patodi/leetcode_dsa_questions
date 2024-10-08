@@ -1,3 +1,5 @@
+// TIME COMPLEXITY: O(n * m)
+//SPACE COMPLEXITY:O(1)
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
