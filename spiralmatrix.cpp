@@ -1,3 +1,5 @@
+//TIME COMPLEXITY: O(m * n)
+//SPACE COMPLEXITY: O(m * n)
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
