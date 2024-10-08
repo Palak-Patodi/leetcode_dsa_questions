@@ -92,3 +92,12 @@ https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-si
 31.Longest Consecutive Sequence in an Array
 https://leetcode.com/problems/longest-consecutive-sequence/description/
 
+32.spiral matrix
+https://leetcode.com/problems/spiral-matrix/description/
+
+33.set matrix zeros
+https://leetcode.com/problems/set-matrix-zeroes/description/
+
+34.rotate image
+https://leetcode.com/problems/rotate-image/description/
+
