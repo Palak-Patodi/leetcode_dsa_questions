@@ -101,3 +101,17 @@ https://leetcode.com/problems/set-matrix-zeroes/description/
 34.rotate image
 https://leetcode.com/problems/rotate-image/description/
 
+35.array to linked list
+https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=introduction-to-linked-list
+
+36.linked list insertion at end
+https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=linked-list-insertion
+
+37.delete node in linked list
+https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+38.count linked list nodes
+https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=count-nodes-of-linked-list
+
+39.search in linked list
+https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=search-in-linked-list-1664434326
