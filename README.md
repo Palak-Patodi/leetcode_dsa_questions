@@ -124,6 +124,3 @@ https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1?utm
 
 42.delete node in doubly linked list
 https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=delete-node-in-doubly-linked-list
-
-43.reverse a doubly linked list
-https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=reverse-a-doubly-linked-list
