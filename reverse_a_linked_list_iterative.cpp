@@ -1,3 +1,6 @@
+//time complexity:o(n)
+//space complexity:o(1)
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
