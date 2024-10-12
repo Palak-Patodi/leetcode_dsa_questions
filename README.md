@@ -124,3 +124,12 @@ https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1?utm
 
 42.delete node in doubly linked list
 https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=delete-node-in-doubly-linked-list
+
+43.Reverse a LinkedList [Iterative]
+https://leetcode.com/problems/reverse-linked-list/description/
+
+44.Reverse a LinkedList [recursive]
+https://leetcode.com/problems/reverse-linked-list/description/
+
+45.Reverse a DLL
+https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=reverse-a-doubly-linked-list
