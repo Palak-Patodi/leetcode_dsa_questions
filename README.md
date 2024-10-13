@@ -133,3 +133,9 @@ https://leetcode.com/problems/reverse-linked-list/description/
 
 45.Reverse a DLL
 https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=reverse-a-doubly-linked-list
+
+46.middle of a linked list
+https://leetcode.com/problems/middle-of-the-linked-list/description
+
+47.linked list cycle
+https://leetcode.com/problems/linked-list-cycle/description/
