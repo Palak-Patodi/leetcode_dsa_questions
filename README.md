@@ -139,3 +139,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/description
 
 47.linked list cycle
 https://leetcode.com/problems/linked-list-cycle/description/
+
+48.pallindrome linked list
+https://leetcode.com/problems/palindrome-linked-list/description/
+
+49.find length of the loop
+https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop
