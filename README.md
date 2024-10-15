@@ -145,3 +145,12 @@ https://leetcode.com/problems/palindrome-linked-list/description/
 
 49.find length of the loop
 https://www.geeksforgeeks.org/problems/find-length-of-loop/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-length-of-loop
+
+50.delete the middle node of linked list
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+
+51.odd even linked list
+https://leetcode.com/problems/odd-even-linked-list/description/
+
+52.remove nth node from end of list
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
