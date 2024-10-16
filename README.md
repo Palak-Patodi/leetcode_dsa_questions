@@ -154,3 +154,12 @@ https://leetcode.com/problems/odd-even-linked-list/description/
 
 52.remove nth node from end of list
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
+53.intersection of linked list
+https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+
+54.sort list
+https://leetcode.com/problems/sort-list/description/
+
+55.sort a link list of 0s,1s,2s
+https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=given-a-linked-list-of-0s-1s-and-2s-sort-it
