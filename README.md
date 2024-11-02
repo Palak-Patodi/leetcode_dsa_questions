@@ -160,3 +160,9 @@ https://leetcode.com/problems/sort-list/description/
 
 54.sort a link list of 0s,1s,2s
 https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=given-a-linked-list-of-0s-1s-and-2s-sort-it
+
+55.intersection of 2 linked list
+https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+
+56.add 2 numbers
+https://leetcode.com/problems/add-two-numbers/description/
