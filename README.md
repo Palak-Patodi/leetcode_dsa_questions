@@ -166,3 +166,15 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 
 56.add 2 numbers
 https://leetcode.com/problems/add-two-numbers/description/
+
+57.Add 1 to a number represented by LL
+https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+
+58.Delete all occurrences of a key in DLL
+https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/0
+
+59.Find pairs with given sum in DLL
+https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1
+
+60.Remove duplicates from sorted DLL
+https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/0
