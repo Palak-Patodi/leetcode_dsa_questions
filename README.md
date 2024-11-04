@@ -178,3 +178,12 @@ https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linke
 
 60.Remove duplicates from sorted DLL
 https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/0
+
+61.remove outermost parantheses
+https://leetcode.com/problems/remove-outermost-parentheses/description/
+
+62.reverse words in a string
+https://leetcode.com/problems/reverse-words-in-a-string/description/
+
+63.largest odd no. in string
+https://leetcode.com/problems/largest-odd-number-in-string/description/
