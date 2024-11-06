@@ -187,3 +187,12 @@ https://leetcode.com/problems/reverse-words-in-a-string/description/
 
 63.largest odd no. in string
 https://leetcode.com/problems/largest-odd-number-in-string/description/
+
+64.rotate string
+https://leetcode.com/problems/rotate-string/description/
+
+65.longest common prefix
+https://leetcode.com/problems/longest-common-prefix/description/
+
+66.isomorhic strings
+https://leetcode.com/problems/isomorphic-strings/description/
