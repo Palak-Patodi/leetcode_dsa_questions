@@ -196,3 +196,12 @@ https://leetcode.com/problems/longest-common-prefix/description/
 
 66.isomorhic strings
 https://leetcode.com/problems/isomorphic-strings/description/
+
+67.valid anagram
+https://leetcode.com/problems/valid-anagram/description/
+
+68.sort character by frequency
+https://leetcode.com/problems/sort-characters-by-frequency/description/
+
+69.maximum nesting depth of paranthesis
+https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/
