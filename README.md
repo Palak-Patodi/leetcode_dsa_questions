@@ -205,3 +205,9 @@ https://leetcode.com/problems/sort-characters-by-frequency/description/
 
 69.maximum nesting depth of paranthesis
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/
+
+70. String to Integer (atoi)
+https://leetcode.com/problems/string-to-integer-atoi/description/
+
+71.Roman to Integer
+https://leetcode.com/problems/roman-to-integer/description/
