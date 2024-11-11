@@ -211,3 +211,9 @@ https://leetcode.com/problems/string-to-integer-atoi/description/
 
 71.Roman to Integer
 https://leetcode.com/problems/roman-to-integer/description/
+
+72.Sum of Beauty of All Substrings
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
+
+73.longest palindromic substring
+https://leetcode.com/problems/longest-palindromic-substring/description/
