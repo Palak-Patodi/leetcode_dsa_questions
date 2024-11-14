@@ -215,5 +215,8 @@ https://leetcode.com/problems/roman-to-integer/description/
 72.Sum of Beauty of All Substrings
 https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
 
-73.longest palindromic substring
-https://leetcode.com/problems/longest-palindromic-substring/description/
+73. Implement Queue using Stacks
+https://leetcode.com/problems/implement-queue-using-stacks/description/
+
+74.implement stack using queue
+https://leetcode.com/problems/implement-stack-using-queues/description/
