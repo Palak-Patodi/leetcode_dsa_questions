@@ -220,3 +220,6 @@ https://leetcode.com/problems/implement-queue-using-stacks/description/
 
 74.implement stack using queue
 https://leetcode.com/problems/implement-stack-using-queues/description/
+
+75.stack using linked list
+https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implement-stack-using-linked-list
