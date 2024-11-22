@@ -247,3 +247,9 @@ https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1?utm_source
 
 83.prefix to postfix
 https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=prefix-to-postfix-conversion
+
+84.next greater element 1
+https://leetcode.com/problems/next-greater-element-i/description/
+
+85.next greater element 2
+https://leetcode.com/problems/next-greater-element-ii/description/
