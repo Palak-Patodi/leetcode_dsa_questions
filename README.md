@@ -253,3 +253,13 @@ https://leetcode.com/problems/next-greater-element-i/description/
 
 85.next greater element 2
 https://leetcode.com/problems/next-greater-element-ii/description/
+
+86.Number of greater elements to the right
+https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1
+
+87. Trapping Rain Water
+https://leetcode.com/problems/trapping-rain-water/description/
+
+88.sum-of-subarray-minimums
+https://leetcode.com/problems/sum-of-subarray-minimums/description/
+
